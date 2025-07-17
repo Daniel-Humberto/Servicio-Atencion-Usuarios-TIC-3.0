@@ -208,7 +208,7 @@ El proyecto tiene una estructura limpia y ordenada con el Framework **Laravel** 
 
 <div align="center">
   <h3>🧑‍💼 Gestión de Administradores</h3>
-  <img src="Imagenes/Interfaces/Admin/5.png" alt="Administradores Admin" width="80%">
+  <img src="Imagenes/Interfaces/Admin/6.png" alt="Administradores Admin" width="80%">
   <p><em>🔧 Pagina Web exclusiva del administrador Alta Direccion. Desde la cual se puede administrar los privilegios de los  Administradores.</em></p>
 </div>
 
