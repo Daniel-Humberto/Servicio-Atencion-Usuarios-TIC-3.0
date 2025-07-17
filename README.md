@@ -170,46 +170,46 @@ El proyecto tiene una estructura limpia y ordenada con el Framework **Laravel** 
 
 ## 🎨 Interfaces Gráficas del Administrador
 
-
 <div align="center">
   <h3>📈 Dashboard General</h3>
-  <img src="Imagenes/Interfaces/Admin/1.png" alt="Dashboard Admin" width="80%">
-  <p><em>📊 Vista general del Dashboard para el administrador: KPIs y métricas.</em></p>
+  <img src="Imagenes/Interfaces/Admin/1.png" alt="Dashboard Admin"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>📊 Vista general del panel administrativo, con KPIs y métricas en tiempo real.</em></p>
 </div>
-
 
 <div align="center">
   <h3>🎟️ Gestión de Tickets</h3>
-  <img src="Imagenes/Interfaces/Admin/2.png" alt="Tickets Admin" width="80%">
-  <p><em>🛠️ Panel para visualizar, asignar, atender, y dar seguimiento a tickets generados por los usuarios.</em></p>
+  <img src="Imagenes/Interfaces/Admin/2.png" alt="Gestión de Tickets Admin"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>🛠️ Panel para visualizar, asignar, atender y dar seguimiento a tickets generados por los usuarios.</em></p>
 </div>
-
 
 <div align="center">
   <h3>💬 Módulo de Chats</h3>
-  <img src="Imagenes/Interfaces/Admin/3.png" alt="Chats Admin" width="80%">
-  <p><em>📥 Comunicación directa con los usuarios mediante mensajes en tiempo real, para atender los tickets generados por los usuarios.</em></p>
+  <img src="Imagenes/Interfaces/Admin/3.png" alt="Chats Admin"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>📥 Comunicación directa con los usuarios mediante mensajes en tiempo real.</em></p>
 </div>
-
 
 <div align="center">
   <h3>🗓️ Calendario de Actividades</h3>
-  <img src="Imagenes/Interfaces/Admin/4.png" alt="Calendario Admin" width="80%">
+  <img src="Imagenes/Interfaces/Admin/4.png" alt="Calendario Admin"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
   <p><em>📌 Programación y visualización de eventos, recordatorios y tareas importantes.</em></p>
 </div>
 
-
 <div align="center">
   <h3>🧑‍💼 Gestión de Administradores</h3>
-  <img src="Imagenes/Interfaces/Admin/5.png" alt="Administradores Admin" width="80%">
-  <p><em>🔧 Pagina Web exclusiva del administrador Alta Direccion. Desde la cual se puede administrar los privilegios de los  Administradores.</em></p>
+  <img src="Imagenes/Interfaces/Admin/5.png" alt="Gestión de Administradores"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>🔧 Panel exclusivo para la Alta Dirección, donde se administran privilegios de los administradores.</em></p>
 </div>
-
 
 <div align="center">
   <h3>👥 Gestión de Usuarios</h3>
-  <img src="Imagenes/Interfaces/Admin/6.png" alt="Usuarios Admin" width="80%">
-  <p><em>🔐 Pagina Web exclusiva del administrador Alta Direccion. Desde la cual se puede administrar los privilegios y controlar los acceso de todos los usuarios registrados.</em></p>
+  <img src="Imagenes/Interfaces/Admin/6.png" alt="Gestión de Usuarios"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>🔐 Administración de accesos y permisos de todos los usuarios registrados.</em></p>
 </div>
 
 
@@ -218,47 +218,46 @@ El proyecto tiene una estructura limpia y ordenada con el Framework **Laravel** 
 
 ## 👤 Interfaces Gráficas del Usuario
 
-
 <div align="center">
   <h3>📊 Dashboard Personal</h3>
-  <img src="Imagenes/Interfaces/User/1.png" alt="Dashboard Usuario" width="80%">
-  <p><em>🧭 Vista rápida de algunas metricas y del estado de sus tickets, mensajes, y actividades recientes.</em></p>
+  <img src="Imagenes/Interfaces/User/1.png" alt="Dashboard Usuario"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>🧭 Vista rápida de métricas personales y estado de tickets, mensajes y actividades recientes.</em></p>
 </div>
-
 
 <div align="center">
   <h3>🎫 Formulario de Tickets</h3>
-  <img src="Imagenes/Interfaces/User/2.png" alt="Tickets Usuario" width="80%">
-  <p><em>📩 Formulario para el tramite de Tickets.</em></p>
+  <img src="Imagenes/Interfaces/User/2.png" alt="Formulario de Tickets"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>📩 Formulario para generar solicitudes de atención mediante tickets.</em></p>
 </div>
-
 
 <div align="center">
-  <h3>🎫 Formulario de Solicitud de Instalaciones</h3>
-  <img src="Imagenes/Interfaces/User/2.2.png" alt="Tickets Usuario" width="80%">
-  <p><em>📩 Formulario para el tramite de solicitudes de instalaciones.</em></p>
+  <h3>🏢 Solicitud de Instalaciones</h3>
+  <img src="Imagenes/Interfaces/User/2.2.png" alt="Formulario de Instalaciones"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>📩 Formulario para solicitar uso de instalaciones específicas.</em></p>
 </div>
-
 
 <div align="center">
-  <h3>🎟️ Gestión de Tickets</h3>
-  <img src="Imagenes/Interfaces/User/3.png" alt="Chats Usuario" width="80%">
-  <p><em> 🛠️ Panel para visualizar, los tickets generados por el usuarios.</em></p>
+  <h3>🎟️ Seguimiento de Tickets</h3>
+  <img src="Imagenes/Interfaces/User/3.png" alt="Seguimiento de Tickets"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>🛠️ Visualización del historial y estado actual de tickets generados.</em></p>
 </div>
-
 
 <div align="center">
-  <h3>💬 Chat Soporte</h3>
-  <img src="Imagenes/Interfaces/User/4.png" alt="Chats Usuario" width="80%">
-  <p><em>🗨️ Comunicación directa con los administradores en tiempo real. Para la resolucion de los tickets tramitados</em></p>
+  <h3>💬 Chat de Soporte</h3>
+  <img src="Imagenes/Interfaces/User/4.png" alt="Chat Soporte"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>🗨️ Comunicación directa en tiempo real con el equipo de soporte.</em></p>
 </div>
-
 
 <div align="center">
   <h3>📅 Calendario Personal</h3>
-  <img src="Imagenes/Interfaces/User/5.png" alt="Calendario Usuario" width="80%">
-  <p><em>📆 Calendario Personal para consultar eventos programados y solicitados.</em></p>
+  <img src="Imagenes/Interfaces/User/5.png" alt="Calendario Usuario"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>📆 Consulta de eventos y actividades programadas relacionadas con los tickets o solicitudes.</em></p>
 </div>
-
 
 ---
