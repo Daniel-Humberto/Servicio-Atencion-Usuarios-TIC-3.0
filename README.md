@@ -200,16 +200,16 @@ El proyecto tiene una estructura limpia y ordenada con el Framework **Laravel** 
 
 
 <div align="center">
-  <h3>👥 Gestión de Usuarios</h3>
-  <img src="Imagenes/Interfaces/Admin/5.png" alt="Usuarios Admin" width="80%">
-  <p><em>🔐 Pagina Web exclusiva del administrador Alta Direccion. Desde la cual se puede administrar los privilegios y controlar los acceso de todos los usuarios registrados.</em></p>
+  <h3>🧑‍💼 Gestión de Administradores</h3>
+  <img src="Imagenes/Interfaces/Admin/5.png" alt="Administradores Admin" width="80%">
+  <p><em>🔧 Pagina Web exclusiva del administrador Alta Direccion. Desde la cual se puede administrar los privilegios de los  Administradores.</em></p>
 </div>
 
 
 <div align="center">
-  <h3>🧑‍💼 Gestión de Administradores</h3>
-  <img src="Imagenes/Interfaces/Admin/6.png" alt="Administradores Admin" width="80%">
-  <p><em>🔧 Pagina Web exclusiva del administrador Alta Direccion. Desde la cual se puede administrar los privilegios de los  Administradores.</em></p>
+  <h3>👥 Gestión de Usuarios</h3>
+  <img src="Imagenes/Interfaces/Admin/6.png" alt="Usuarios Admin" width="80%">
+  <p><em>🔐 Pagina Web exclusiva del administrador Alta Direccion. Desde la cual se puede administrar los privilegios y controlar los acceso de todos los usuarios registrados.</em></p>
 </div>
 
 
