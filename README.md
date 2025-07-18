@@ -212,6 +212,13 @@ El proyecto tiene una estructura limpia y ordenada con el Framework **Laravel** 
   <p><em>🔐 Administración de accesos y permisos de todos los usuarios registrados.</em></p>
 </div>
 
+<div align="center">
+  <h3>📥 Resultados Encuesta de Satisfacción</h3>
+  <img src="Imagenes/Interfaces/Admin/7.png" alt="Gestión de Usuarios"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>🔧 Evaluación del servicio recibido para mejora continua del sistema.</em></p>
+</div>
+
 
 ---
 
@@ -259,5 +266,13 @@ El proyecto tiene una estructura limpia y ordenada con el Framework **Laravel** 
        style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
   <p><em>📆 Consulta de eventos y actividades programadas relacionadas con los tickets o solicitudes.</em></p>
 </div>
+
+<div align="center">
+  <h3>📥 Encuesta de Satisfacción</h3>
+  <img src="Imagenes/Interfaces/User/6.png" alt="Gestión de Usuarios"
+       style="max-width: 90%; height: auto; box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);">
+  <p><em>🔧 Evaluación del servicio recibido para mejora continua del sistema.</em></p>
+</div>
+
 
 ---
