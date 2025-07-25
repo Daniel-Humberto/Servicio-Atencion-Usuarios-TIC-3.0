@@ -1,4 +1,4 @@
-# Servicio de Atencion a Usuarios TIC-3.0
+# Servicio de Atencion a Usuarios TIC 3.0
 
 
 <p align="center">
